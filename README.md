@@ -1,2 +1,2 @@
 # f-bomb
-linux fork bomb
+fork bombs
